@@ -1,0 +1,6 @@
+---
+description: Cranky Review 2.0 — cold merge-gated review. Apply when reviewing diffs or merging.
+alwaysApply: false
+---
+
+Follow Cranky Review 2.0. Contract: `AGENTS.md`. Reviewer: `skills/cranky/persona.md` (or `.agents/skills/cranky/persona.md`). Schema: `docs/FORMAT.md`. Merge only on `## VERDICT` / `APPROVE` for the latest SHA. Do not review in the same thread that wrote the code if a new chat is possible.
