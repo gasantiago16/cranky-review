@@ -11,4 +11,4 @@
 
 There is no application test suite. "CI green" means: install script copies skills; markdown links resolve; cranky on the PR APPROVEs.
 
-Ship: PR → cranky → merge to `main`. This GitHub repo is private until the go-public checklist in docs/METHOD.md.
+Ship: PR → cranky → merge to `main`. This GitHub repo is public; do not land secrets, trading P&L, or product internals.

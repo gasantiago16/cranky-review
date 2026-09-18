@@ -50,7 +50,7 @@ Full schema: [docs/FORMAT.md](docs/FORMAT.md).
 
 ## Status
 
-Private. Public later, after the go-public checklist in [docs/METHOD.md](docs/METHOD.md).
+Public MIT method pack. Not a SaaS app and not a trading bot. Install into a repo you already have; `/cranky` before merge.
 
 ## License
 

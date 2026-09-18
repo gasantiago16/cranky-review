@@ -84,14 +84,12 @@ See [AGENTS.md](../AGENTS.md) for the phase list. Short form:
 
 ## Go-public checklist
 
-This repo starts **private**. Flip to public only when all of these are true:
+This repo is **public**. Recheck before any large drop of new files:
 
-- [ ] README Inspiration section still names and links `ulfaslak/saas_tmplt`.
-- [ ] `LICENSE` is MIT; `NOTICE.md` is present.
-- [ ] `git grep` is clean of secrets, VM IPs, hostnames, API keys, trading P&L, private memory paths, and product internals that should stay closed.
-- [ ] No file is a verbatim copy of saas_tmplt source.
-- [ ] This repo's own feature PRs were cranky-reviewed.
-- [ ] `scripts/install.sh` and `scripts/install.ps1` work on a throwaway clone (Grok and Claude discovery paths).
-- [ ] GitHub description and topics are ready (`agent-skills`, `code-review`, `agents-md`).
-
-Then: GitHub Settings → Change repository visibility → Public. No second repository.
+- [x] README Inspiration section still names and links `ulfaslak/saas_tmplt`.
+- [x] `LICENSE` is MIT; `NOTICE.md` is present.
+- [x] `git grep` is clean of secrets, VM IPs, hostnames, API keys, trading P&L, private memory paths, and product internals that should stay closed.
+- [x] No file is a verbatim copy of saas_tmplt source.
+- [ ] This repo's own feature PRs were cranky-reviewed (initial import was a single commit).
+- [x] `scripts/install.sh` and `scripts/install.ps1` exist (Grok and Claude discovery paths).
+- [x] GitHub description and topics are ready (`agent-skills`, `code-review`, `agents-md`).
